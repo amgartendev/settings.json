@@ -26,4 +26,4 @@
     "window.commandCenter": false,
     "code-runner.runInTerminal": true,
     "security.workspace.trust.untrustedFiles": "open",
-    }
+}
