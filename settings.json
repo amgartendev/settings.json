@@ -24,6 +24,6 @@
     "workbench.iconTheme": "vscode-icons",
     "workbench.editor.empty.hint": "hidden",
     "workbench.colorTheme": "DartPad",
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "workbench.layoutControl.enabled": false,
 }
