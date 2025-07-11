@@ -22,7 +22,6 @@
     "workbench.activityBar.location": "hidden",
     "workbench.editor.editorActionsLocation": "hidden",
     "workbench.iconTheme": "vscode-icons",
-    "workbench.settings.applyToAllProfiles": ["workbench.colorCustomizations"],
     "workbench.editor.empty.hint": "hidden",
     "workbench.colorTheme": "DartPad",
     "workbench.statusBar.visible": false,
