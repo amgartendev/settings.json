@@ -9,6 +9,8 @@
     "editor.accessibilitySupport": "off",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorBlinking": "expand",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {"source.fixAll": "explicit"},
     "explorer.compactFolders": false,
     "files.trimTrailingWhitespace": true,
     "security.workspace.trust.untrustedFiles": "open",
