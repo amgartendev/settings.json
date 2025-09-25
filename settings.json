@@ -25,7 +25,6 @@
     "workbench.editorAssociations": {"*.md": "vscode.markdown.preview.editor"},
     "workbench.iconTheme": "vscode-icons",
     "workbench.editor.empty.hint": "hidden",
-    "workbench.colorTheme": "DartPad",
     "workbench.statusBar.visible": true,
     "workbench.layoutControl.enabled": false,
     "workbench.secondarySideBar.defaultVisibility": "hidden",
