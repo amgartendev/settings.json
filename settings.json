@@ -26,7 +26,7 @@
     "workbench.activityBar.location": "hidden",
     "workbench.editor.editorActionsLocation": "hidden",
     "workbench.editorAssociations": {"*.md": "vscode.markdown.preview.editor"},
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.editor.empty.hint": "hidden",
     "workbench.statusBar.visible": true,
     "workbench.layoutControl.enabled": false,
